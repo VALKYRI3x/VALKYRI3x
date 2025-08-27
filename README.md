@@ -17,7 +17,6 @@ Strong foundation in simulating real-world attacks and threat analysis.
 * ✍️ Publishes **CTF & attack simulation writeups** on Medium
 * 🌐 LinkedIn: [linkedin.com/in/wrijoyasen](https://linkedin.com/in/wrijoyasen)
 * 📜 TryHackMe: [VALKYRI3](https://tryhackme.com/p/VALKYRI3)
-* 💻 GitHub: [VALKYRI3x](https://github.com/VALKYRI3x)
 
 ---
 
